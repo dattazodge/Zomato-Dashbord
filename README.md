@@ -35,11 +35,6 @@ The **Zomato Insights Dashboard** uses interactive visuals and KPIs to provide a
 
 ---
 
-## 📂 Repository Contents
-
-***
----
-
 ## 👤 Author
 
 **Datta Zodge**  
